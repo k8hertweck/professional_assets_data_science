@@ -4,7 +4,7 @@ As data scientists, we bring much more to our jobs than technical skills. Join t
 
 ## Quick links
 
-- **Presentation slides:** available as [powerpoint](professional_assets_data_science.pdf) and [Google Slides](https://docs.google.com/presentation/d/1Atp76i_4-Qa755moKgdZDTuhtDhbBNokEqnnuNgObPw/edit?usp=sharing)
+- **Presentation slides:** available as [powerpoint](professional-assets-data-science.pdf) and [Google Slides](https://docs.google.com/presentation/d/1Atp76i_4-Qa755moKgdZDTuhtDhbBNokEqnnuNgObPw/edit?usp=sharing)
 - **Socrative answer submission system:** go to [this website](https://b.socrative.com/login/student/) and enter Room Name *PAW5AYWM*. Questions are viewable [here](Socrative_questions.pdf).
 - **Additional resources:** [this link](resources.md) includes recommended reading on non-technical skills development
 
@@ -14,12 +14,14 @@ In a field like data science, it's easy to focus on technical skills: lines of c
 
 ### Outline
 
-- Introduction to the workshop (10 minutes)
+- Introduction to the workshop
     - Motivation and objectives
     - Orientation to workshop materials and expectations
-- Inventory of existing strengths (15 minutes)
-- Target areas for improvement (15 minutes)
-- Identify ways to improve (15 minutes)
-- Summary (5 minutes)
+- Inventory of existing strengths
+- Target areas for improvement
+- Identify ways to improve
+- Summary
     - Synthesizing content
     - Workshop assessment
+
+Additional information about leading this workshop is available [here](teaching_notes.md).

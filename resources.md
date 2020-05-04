@@ -10,7 +10,7 @@ Submit a PR or [file an issue](https://github.com/k8hertweck/professional_assets
 
 - [Transferable Skills: Definitions and Examples](https://www.indeed.com/career-advice/resumes-cover-letters/transferable-skills) from Indeed (free article)
 - [10 Key Areas of Development for Employees (with Examples and Tips)](https://www.indeed.com/career-advice/career-development/key-areas-of-development-for-employees) from Indeed (free article)
-- Individual development plans
+- [Individual Development Plans (IDPs)](https://medium.com/stem-and-culture-chronicle/building-your-individual-development-plan-idp-a-guide-for-undergraduate-students-f14feca9111c)
 - [Every Other Thursday](https://www.goodreads.com/book/show/223007.Every_Other_Thursday) by Ellen Daneill, describes a professional problem-solving group providing practical and emotional support for "cooperation in a competitive world"
 - [Finding a mentor](https://www.npr.org/2019/10/25/773158390/how-to-find-a-mentor-and-make-it-work) from NPR (free article)
 - [Career Tools for STEM Professionals](https://careerdevelopment.aaas.org/individuals/) from AAAS includes many resources, including short courses. Requires a membership to AAAS.
