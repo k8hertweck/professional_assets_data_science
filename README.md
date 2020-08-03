@@ -2,6 +2,8 @@
 
 As data scientists, we bring much more to our jobs than technical skills. Join this discussion-based workshop to inventory your own professional strengths, identify areas for improvement, and learn to advocate for your own professional development.
 
+This workshop was originally presented at the [Women in Data Science (WiDS) Puget Sound conference](https://www.widspugetsound.org) in May 2020.
+
 ## Quick links
 
 - **Presentation slides:** available as [powerpoint](slides/professional-assets-data-scienceCCHome2020.pdf) and [Google Slides](https://docs.google.com/presentation/d/1Iso5pdK_PaMRnPzWhlFoPAz5dI6JWQxrGHPMYyTzsTU/edit?usp=sharing)
