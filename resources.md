@@ -28,3 +28,8 @@ Submit a PR or [file an issue](https://github.com/k8hertweck/professional_assets
 - [English Communication for Scientists](https://www.nature.com/scitable/ebooks/cntNm-14053993/) by Jean-luc Doumont (free ebook)
 - [Crucial Conversations: Tools for Talking When Stakes Are High](https://www.goodreads.com/book/show/15014.Crucial_Conversations?from_search=true&from_srp=true&qid=RmqyOZYc4s&rank=1) by  Kerry Patterson, Joseph Grenny, Ron McMillan, Al Switzler
 - [Difficult Conversations: How to Discuss What Matters Most](https://www.goodreads.com/book/show/774088.Difficult_Conversations?from_search=true&from_srp=true&qid=nssLUZcWz8&rank=1) by Douglas Stone,  Bruce Patton, Sheila Heen
+
+## Groups with opportunities to learn
+
+- [The Carpentries](https://carpentries.org): teaching foundational coding and data science skills to researchers worldwide
+- [MetaDocencia](https://metadocencia.netlify.app): teaching Spanish-speakers how to teach
