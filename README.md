@@ -2,8 +2,6 @@
 
 As data scientists, we bring much more to our jobs than technical skills. Join this discussion-based workshop to inventory your own professional strengths, identify areas for improvement, and learn to advocate for your own professional development.
 
-This workshop was originally presented at the [Women in Data Science (WiDS) Puget Sound conference](https://www.widspugetsound.org) in May 2020.
-
 ## Quick links
 
 - **Presentation slides:** available as [powerpoint](slides/professional-assets-data-scienceCCHome2020.pdf) and [Google Slides](https://docs.google.com/presentation/d/1Iso5pdK_PaMRnPzWhlFoPAz5dI6JWQxrGHPMYyTzsTU/edit?usp=sharing)
@@ -28,10 +26,10 @@ In a field like data science, it's easy to focus on technical skills: lines of c
 
 ### Errata
 
-Information about teaching/leading this workshop is available in [`faciltiation/`]:
+Information about teaching/leading this workshop is available in [`faciltiation/`](facilitation/):
 - Guidance for leading this workshop is available [here](facilitation/teaching_notes.md)
 - If using Socrative answer submission system: go to [this website](https://b.socrative.com/login/student/) and enter Room Name *PAW5AYWM*. Questions are viewable [here](facilitation/Socrative_questions.pdf)
 
 This workshop has been presented at:
-- [Women in Data Science (WiDS) Puget Sound conference](https://www.widspugetsound.org), May 2020, material available as [powerpoint](slides/professional-assets-data-scienceWIDS2020.pdf) and [Google Slides](https://docs.google.com/presentation/d/1Atp76i_4-Qa755moKgdZDTuhtDhbBNokEqnnuNgObPw/edit?usp=sharing)
+- [Women in Data Science (WiDS) Puget Sound conference](https://www.widspugetsound.org), May 2020, material available as [powerpoint](slides/professional-assets-data-scienceWIDS2020.pdf) and [Google Slides](https://docs.google.com/presentation/d/1Atp76i_4-Qa755moKgdZDTuhtDhbBNokEqnnuNgObPw/edit?usp=sharing), video available [here](https://datacircles.org/blog-1/conference-video-kate-hertweck-phd-workshop-more-than-code-professional-assets-in-data-science-careers)
 - [CarpentryCon @ Home](https://2020.carpentrycon.org), August 2020, materials available as [powerpoint](slides/professional-assets-data-scienceCCHome2020.pdf) and [Google Slides](https://docs.google.com/presentation/d/1Iso5pdK_PaMRnPzWhlFoPAz5dI6JWQxrGHPMYyTzsTU/edit?usp=sharing)
