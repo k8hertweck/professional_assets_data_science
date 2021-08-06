@@ -14,6 +14,7 @@ Submit a PR or [file an issue](https://github.com/k8hertweck/professional_assets
 - [Every Other Thursday](https://www.goodreads.com/book/show/223007.Every_Other_Thursday) by Ellen Daneill, describes a professional problem-solving group providing practical and emotional support for "cooperation in a competitive world"
 - [Finding a mentor](https://www.npr.org/2019/10/25/773158390/how-to-find-a-mentor-and-make-it-work) from NPR (free article)
 - [Career Tools for STEM Professionals](https://careerdevelopment.aaas.org/individuals/) from AAAS includes many resources, including short courses. Requires a membership to AAAS.
+- [Informational interviewing](https://career.berkeley.edu/Info/InfoInterview) from UC Berkeley discusses how to learn about jobs in which you are interested
 - [Atlassian's blog](https://www.atlassian.com/blog) has lots of (free) posts about a variety of workplace topics
 
 ## Leadership and working with people
